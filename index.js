@@ -26,37 +26,38 @@ const path = require('path');
   
     // Proverite da li ste dostigli "ordinal: 35"
     if (ballMessages.some(msg => msg.ordinal === 35)) {
-      // Snimite sve poruke sa "ordinal: 35"
-      const filePath = path.join(__dirname, 'partijeIzKonzole.txt');
-      ballMessages.forEach(ballMessage => {
-        const formattedData = {
-          ordinal: ballMessage.ordinal,
-          number: ballMessage.number,
-          oddInFirstFive: ballMessage.oddInFirstFive,
-          evenInFirstFive: ballMessage.evenInFirstFive,
-          firstOddEven: ballMessage.firstOddEven,
-        };
-  
-        // Formatiranje vremena
-        const now = new Date();
-        const formattedTime = new Date(now.getTime() - now.getTime() % (5 * 60000));
-        const formattedTimeStr = formattedTime.toLocaleString('en-US', {
-          year: 'numeric',
-          month: '2-digit',
-          day: '2-digit',
-          hour: '2-digit',
-          minute: '2-digit',
-        }).replace(/,/g, '').replace(' ', ' - ');
-
-        // Snimanje u datoteku
-        const logEntry = `${formattedTimeStr} ${JSON.stringify(formattedData, null, 2)}\n`;
-        fs.appendFileSync(filePath, logEntry);
-
-        console.log('Poruka je sačuvana u datoteku "partijeIzKonzole.txt".');
-      });
-
-      // Izbrišite sve poruke
-      ballMessages = [];
-    }
+        // Izdvojite poruke sa "ordinal: 35" i snimite ih
+        const formattedData = ballMessages.map(targetMessage => {
+            const extractedData = {
+              ordinal: targetMessage.ordinal,
+              number: targetMessage.number,
+              oddInFirstFive: targetMessage.oddInFirstFive,
+              evenInFirstFive: targetMessage.evenInFirstFive,
+              firstOddEven: targetMessage.firstOddEven,
+            };
+            return JSON.stringify(extractedData).replace(/,/g, ', ').replace(/:/g, ': ');
+          }).join(', ');
+      
+          // Formatiranje vremena
+          const now = new Date();
+          const formattedTime = new Date(now.getTime() - now.getTime() % (5 * 60000));
+          const formattedTimeStr = formattedTime.toLocaleString('sr-RS', {
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
+            hour: '2-digit',
+            minute: '2-digit',
+          }).replace(/,/g, '').replace(' ', ' - ');
+      
+          // Snimanje u datoteku
+          const filePath = path.join(__dirname, 'partijeIzKonzole.txt');
+          const logEntry = `${formattedTimeStr} - [${formattedData}]\n`;
+          fs.appendFileSync(filePath, logEntry);
+      
+          console.log('Poruke su sačuvane u datoteku "partijeIzKonzole.txt".');
+        
+          // Izbrišite sve poruke iz niza
+          ballMessages = [];
+        }
   });
 })();

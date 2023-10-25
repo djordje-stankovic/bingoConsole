@@ -1,360 +1,351 @@
-10/25/2023 - 03:10 PM {
-  "ordinal": 35,
-  "number": {
-    "color": "BROWN",
-    "value": 5
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 1,
   "number": {
-    "color": "RED",
-    "value": 41
+    "color": "BLUE",
+    "value": 35
   },
   "oddInFirstFive": 1,
   "evenInFirstFive": 0,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 2,
   "number": {
-    "color": "PURPLE",
-    "value": 44
+    "color": "BROWN",
+    "value": 29
   },
-  "oddInFirstFive": 1,
+  "oddInFirstFive": 2,
+  "evenInFirstFive": 0,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 3,
+  "number": {
+    "color": "RED",
+    "value": 17
+  },
+  "oddInFirstFive": 3,
+  "evenInFirstFive": 0,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 4,
+  "number": {
+    "color": "RED",
+    "value": 9
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 0,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 5,
+  "number": {
+    "color": "GREEN",
+    "value": 42
+  },
+  "oddInFirstFive": 4,
   "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
-  "ordinal": 3,
-  "number": {
-    "color": "YELLOW",
-    "value": 46
-  },
-  "oddInFirstFive": 1,
-  "evenInFirstFive": 2,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 4,
-  "number": {
-    "color": "ORANGE",
-    "value": 39
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 2,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 5,
-  "number": {
-    "color": "BLACK",
-    "value": 48
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 6,
   "number": {
-    "color": "BROWN",
-    "value": 37
+    "color": "GREEN",
+    "value": 34
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 7,
   "number": {
-    "color": "BROWN",
-    "value": 21
+    "color": "ORANGE",
+    "value": 47
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 8,
   "number": {
-    "color": "ORANGE",
-    "value": 23
+    "color": "RED",
+    "value": 1
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 9,
   "number": {
-    "color": "BROWN",
-    "value": 45
+    "color": "BLACK",
+    "value": 16
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 10,
   "number": {
-    "color": "ORANGE",
-    "value": 7
+    "color": "RED",
+    "value": 41
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 11,
   "number": {
-    "color": "PURPLE",
-    "value": 36
+    "color": "ORANGE",
+    "value": 31
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 12,
   "number": {
-    "color": "RED",
-    "value": 33
+    "color": "YELLOW",
+    "value": 30
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 13,
   "number": {
-    "color": "BLACK",
-    "value": 40
+    "color": "BLUE",
+    "value": 19
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 14,
   "number": {
-    "color": "BLUE",
-    "value": 11
+    "color": "YELLOW",
+    "value": 6
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 15,
+  "number": {
+    "color": "GREEN",
+    "value": 18
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 16,
+  "number": {
+    "color": "BLUE",
+    "value": 43
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 17,
   "number": {
     "color": "BLACK",
     "value": 32
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
-  "ordinal": 16,
-  "number": {
-    "color": "PURPLE",
-    "value": 12
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 17,
-  "number": {
-    "color": "ORANGE",
-    "value": 15
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 18,
   "number": {
     "color": "YELLOW",
     "value": 22
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 19,
   "number": {
     "color": "BLACK",
-    "value": 8
+    "value": 48
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 20,
   "number": {
-    "color": "BROWN",
-    "value": 5
+    "color": "ORANGE",
+    "value": 7
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 21,
   "number": {
-    "color": "BLACK",
-    "value": 24
+    "color": "ORANGE",
+    "value": 39
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
+10/25/2023 - 03:40 PM {
   "ordinal": 22,
-  "number": {
-    "color": "RED",
-    "value": 1
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 23,
-  "number": {
-    "color": "BLUE",
-    "value": 27
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 24,
-  "number": {
-    "color": "BLUE",
-    "value": 3
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 25,
-  "number": {
-    "color": "YELLOW",
-    "value": 30
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 26,
-  "number": {
-    "color": "GREEN",
-    "value": 42
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 27,
-  "number": {
-    "color": "RED",
-    "value": 9
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 28,
-  "number": {
-    "color": "BLUE",
-    "value": 19
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 29,
   "number": {
     "color": "YELLOW",
     "value": 38
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
-  "ordinal": 30,
-  "number": {
-    "color": "GREEN",
-    "value": 10
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 31,
+25.10.2023. - 15:40 - [{"ordinal": 32, "number": {"color": "BLACK", "value": 40}, "oddInFirstFive": 4, "evenInFirstFive": 1, "firstOddEven": "ODD"}, {"ordinal": 33, "number": {"color": "BLUE", "value": 27}, "oddInFirstFive": 4, "evenInFirstFive": 1, "firstOddEven": "ODD"}, {"ordinal": 34, "number": {"color": "GREEN", "value": 2}, "oddInFirstFive": 4, "evenInFirstFive": 1, "firstOddEven": "ODD"}, {"ordinal": 35, "number": {"color": "BLUE", "value": 3}, "oddInFirstFive": 4, "evenInFirstFive": 1, "firstOddEven": "ODD"}]
+10/25/2023 - 03:40 PM {
+  "ordinal": 23,
   "number": {
     "color": "GREEN",
     "value": 26
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
-  "ordinal": 32,
+10/25/2023 - 03:40 PM {
+  "ordinal": 24,
   "number": {
-    "color": "PURPLE",
-    "value": 4
+    "color": "ORANGE",
+    "value": 23
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
-  "ordinal": 33,
+10/25/2023 - 03:40 PM {
+  "ordinal": 25,
+  "number": {
+    "color": "BLACK",
+    "value": 8
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 26,
+  "number": {
+    "color": "RED",
+    "value": 25
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 27,
   "number": {
     "color": "PURPLE",
     "value": 20
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
-10/25/2023 - 03:20 PM {
-  "ordinal": 34,
-  "number": {
-    "color": "YELLOW",
-    "value": 14
-  },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
-  "firstOddEven": "ODD"
-}
-10/25/2023 - 03:20 PM {
-  "ordinal": 35,
+10/25/2023 - 03:40 PM {
+  "ordinal": 28,
   "number": {
     "color": "BROWN",
-    "value": 13
+    "value": 37
   },
-  "oddInFirstFive": 2,
-  "evenInFirstFive": 3,
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 29,
+  "number": {
+    "color": "PURPLE",
+    "value": 44
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 30,
+  "number": {
+    "color": "PURPLE",
+    "value": 12
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 31,
+  "number": {
+    "color": "BROWN",
+    "value": 45
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 32,
+  "number": {
+    "color": "BLACK",
+    "value": 40
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 33,
+  "number": {
+    "color": "BLUE",
+    "value": 27
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 34,
+  "number": {
+    "color": "GREEN",
+    "value": 2
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
+  "firstOddEven": "ODD"
+}
+10/25/2023 - 03:40 PM {
+  "ordinal": 35,
+  "number": {
+    "color": "BLUE",
+    "value": 3
+  },
+  "oddInFirstFive": 4,
+  "evenInFirstFive": 1,
   "firstOddEven": "ODD"
 }
